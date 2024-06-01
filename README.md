@@ -23,13 +23,22 @@ conda activate iqc
 '''bash
 
 1. git clone https://github.com/
+   '''
+
+   '''bash
 
 2. git add .
+   '''
+
+   '''bash
 
 3. git commit -m "readme updated"
+   '''
+
+   '''bash
 
 4. git push origin main
-'''
+   '''
 
 
 
