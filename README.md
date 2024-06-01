@@ -29,6 +29,7 @@ conda activate iqc
 3. git commit -m "readme updated"
 
 4. git push origin main
+'''
 
 
 
